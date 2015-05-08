@@ -1,6 +1,6 @@
 # San Francisco Food Trucks
 
-![Dashboard](http://github.com/alysonla/sffoodtrucks/img/Dashboard.jpg)
+![Dashboard](/img/Dashboard.jpg)
 
 Visualization of Food Trucks by food type / location / permit count in SF.
 
